@@ -1,4 +1,4 @@
-# The project can be accessed at https://syncfusion-dashboard-by-akshita.netlify.app
+The project can be accessed at https://syncfusion-dashboard-by-akshita.netlify.app
 
 # Getting Started with Create React App
 
