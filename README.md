@@ -1,3 +1,5 @@
+# The project can be accessed at https://syncfusion-dashboard-by-akshita.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
